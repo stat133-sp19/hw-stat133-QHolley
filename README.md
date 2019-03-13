@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
-- Lab section: 101
-- GSI: Leia Organa
+- Name: HAO QIN
+- Github username: QHolley
+- Email: dreamholly@163.com
+- Lab section: 102
+- GSI: Dodo Qian
 
 -----
 

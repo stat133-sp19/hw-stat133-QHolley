@@ -1,0 +1,11 @@
+- team-name:the name of the team  
+- game-date:the date of game  
+- season:the year of play  
+- period:refers to the first period of the 4   
+- minutes-remaining: the minutes remained in a specific period
+- seconds-remaining: the seconds remained in a specific period
+- shot-made-flag:whether a shot was made or miss
+- action-type:the type of basketball moves of players
+- shot-type: the type of the shot
+- shot-distance:the distance of the shot
+- x,y:the court coordinates where a shot occurs
